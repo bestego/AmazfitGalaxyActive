@@ -1,0 +1,215 @@
+{
+    "Background": {
+        "Image": {
+            "ImageIndex": 0,
+            "X": 0,
+            "Y": 0
+        }
+    },
+    "Time": {
+        "Hours": {
+            "Ones": {
+                "ImageIndex": 900,
+                "ImagesCount": 1,
+                "X": 0,
+                "Y": 0
+            },
+            "Tens": {
+                "ImageIndex": 900,
+                "ImagesCount": 1,
+                "X": 0,
+                "Y": 0
+            }
+        },
+        "Minutes": {
+            "Ones": {
+                "ImageIndex": 200,
+                "ImagesCount": 10,
+                "X": 0,
+                "Y": 0
+            },
+            "Tens": {
+                "ImageIndex": 220,
+                "ImagesCount": 6,
+                "X": 0,
+                "Y": 0
+            }
+        },
+        "DrawingOrder": "2143"
+    },
+    "Date": {
+        "WeekDay": {
+            "X": 3,
+            "Y": 160,
+            "ImageIndex": 401,
+            "ImagesCount": 7
+        },
+        "MonthAndDay": {
+            "TwoDigitsDay": false,
+            "Separate": {
+                "Day": {
+                    "TopLeftX": 155,
+                    "TopLeftY": 160,
+                    "BottomRightX": 175,
+                    "BottomRightY": 175,
+                    "Alignment": "TopCenter",
+                    "Spacing": 0,
+                    "ImageIndex": 300,
+                    "ImagesCount": 10
+                }
+            }
+        }
+    },
+    "Status": {
+        "Bluetooth": {
+            "Coordinates": {
+                "X": 3,
+                "Y": 3
+            },
+            "ImageIndexOff": 10
+        },
+        "DoNotDisturb": {
+            "Coordinates": {
+                "X": 15,
+                "Y": 3
+            },
+            "ImageIndexOn": 11
+        }
+    },
+    "Battery": {
+        "Icon": {
+            "X": 163,
+            "Y": 3,
+            "ImageIndex": 100,
+            "ImagesCount": 9
+        }
+    },
+    "AnalogDialFace": {
+        "Hours": {
+            "Center": {
+                "X": 88.5,
+                "Y": 88.5
+            },
+            "Color": "0x00FF00",
+            "OnlyBorder": false,
+            "Shape": [
+                {
+                    "X": 12,
+                    "Y": -6
+                },
+                {
+                    "X": 47,
+                    "Y": -6
+                },
+                {
+                    "X": 51,
+                    "Y": -4
+                },
+                {
+                    "X": 53,
+                    "Y": 0
+                },
+                {
+                    "X": 51,
+                    "Y": 4
+                },
+                {
+                    "X": 47,
+                    "Y": 6
+                },
+                {
+                    "X": 12,
+                    "Y": 6
+                },
+                {
+                    "X": 13,
+                    "Y": 4
+                },
+                {
+                    "X": 14,
+                    "Y": 0
+                },
+                {
+                    "X": 13,
+                    "Y": -4
+                }
+            ]
+        },
+        "Minutes": {
+            "Center": {
+                "X": 88.5,
+                "Y": 88.5
+            },
+            "Color": "0xFFFFFF",
+            "OnlyBorder": false,
+            "Shape": [
+                {
+                    "X": 12,
+                    "Y": -6
+                },
+                {
+                    "X": 64,
+                    "Y": -6
+                },
+                {
+                    "X": 68,
+                    "Y": -4
+                },
+                {
+                    "X": 70,
+                    "Y": 0
+                },
+                {
+                    "X": 68,
+                    "Y": 4
+                },
+                {
+                    "X": 64,
+                    "Y": 6
+                },
+                {
+                    "X": 12,
+                    "Y": 6
+                },
+                {
+                    "X": 13,
+                    "Y": 4
+                },
+                {
+                    "X": 14,
+                    "Y": 0
+                },
+                {
+                    "X": 13,
+                    "Y": -4
+                }
+            ]
+        },
+        "Seconds": {
+            "Center": {
+                "X": 88.5,
+                "Y": 88.5
+            },
+            "Color": "0xFF0000",
+            "OnlyBorder": false,
+            "Shape": [
+                {
+                    "X": 14,
+                    "Y": -1
+                },
+                {
+                    "X": 84,
+                    "Y": -1
+                },
+                {
+                    "X": 84,
+                    "Y": 1
+                },
+                {
+                    "X": 14,
+                    "Y": 1
+                }
+            ]
+        }
+    }
+}
