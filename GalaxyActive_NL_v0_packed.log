@@ -200,35 +200,35 @@ Trace|10.1.3 'Coordinates'
 Trace|10.1.3.1 'X': 88
 Trace|10.1.3.2 'Y': 88
 Trace|10.1.4 'Coordinates'
-Trace|10.1.4.1 'X': 12
-Trace|10.1.4.2 'Y': -6
+Trace|10.1.4.1 'X': 11
+Trace|10.1.4.2 'Y': -8
 Trace|10.1.4 'Coordinates'
-Trace|10.1.4.1 'X': 47
-Trace|10.1.4.2 'Y': -6
+Trace|10.1.4.1 'X': 45
+Trace|10.1.4.2 'Y': -8
 Trace|10.1.4 'Coordinates'
 Trace|10.1.4.1 'X': 51
-Trace|10.1.4.2 'Y': -4
+Trace|10.1.4.2 'Y': -6
 Trace|10.1.4 'Coordinates'
 Trace|10.1.4.1 'X': 53
 Trace|10.1.4.2 'Y': 0
 Trace|10.1.4 'Coordinates'
 Trace|10.1.4.1 'X': 51
-Trace|10.1.4.2 'Y': 4
-Trace|10.1.4 'Coordinates'
-Trace|10.1.4.1 'X': 47
 Trace|10.1.4.2 'Y': 6
 Trace|10.1.4 'Coordinates'
-Trace|10.1.4.1 'X': 12
-Trace|10.1.4.2 'Y': 6
+Trace|10.1.4.1 'X': 45
+Trace|10.1.4.2 'Y': 8
+Trace|10.1.4 'Coordinates'
+Trace|10.1.4.1 'X': 11
+Trace|10.1.4.2 'Y': 8
 Trace|10.1.4 'Coordinates'
 Trace|10.1.4.1 'X': 13
-Trace|10.1.4.2 'Y': 4
+Trace|10.1.4.2 'Y': 6
 Trace|10.1.4 'Coordinates'
 Trace|10.1.4.1 'X': 14
 Trace|10.1.4.2 'Y': 0
 Trace|10.1.4 'Coordinates'
 Trace|10.1.4.1 'X': 13
-Trace|10.1.4.2 'Y': -4
+Trace|10.1.4.2 'Y': -6
 Trace|10.2 'ClockHand'
 Trace|10.2.1 'OnlyBorder': 0
 Trace|10.2.2 'Color': 16777215
@@ -272,7 +272,7 @@ Trace|10.3.3 'Coordinates'
 Trace|10.3.3.1 'X': 88
 Trace|10.3.3.2 'Y': 88
 Trace|10.3.4 'Coordinates'
-Trace|10.3.4.1 'X': 14
+Trace|10.3.4.1 'X': 9
 Trace|10.3.4.2 'Y': -1
 Trace|10.3.4 'Coordinates'
 Trace|10.3.4.1 'X': 84
@@ -281,7 +281,7 @@ Trace|10.3.4 'Coordinates'
 Trace|10.3.4.1 'X': 84
 Trace|10.3.4.2 'Y': 1
 Trace|10.3.4 'Coordinates'
-Trace|10.3.4.1 'X': 14
+Trace|10.3.4.1 'X': 9
 Trace|10.3.4.2 'Y': 1
 Debug|Generating previews...
 Debug|Writing watch face to 'Z:\Amazfit\WatchFaces\GalaxyActive_NL_v0\GalaxyActive_NL_v0_packed.bin'
@@ -376,16 +376,16 @@ Trace|        1 (08): 88 (58)
 Trace|        2 (10): 88 (58)
 Trace|    6 bytes
 Trace|    4 (22):
-Trace|        1 (08): 12 (0C)
-Trace|        2 (10): -6 (FFFFFFFFFFFFFFFA)
+Trace|        1 (08): 11 (0B)
+Trace|        2 (10): -8 (FFFFFFFFFFFFFFF8)
 Trace|    15 bytes
 Trace|    4 (22):
-Trace|        1 (08): 47 (2F)
-Trace|        2 (10): -6 (FFFFFFFFFFFFFFFA)
+Trace|        1 (08): 45 (2D)
+Trace|        2 (10): -8 (FFFFFFFFFFFFFFF8)
 Trace|    15 bytes
 Trace|    4 (22):
 Trace|        1 (08): 51 (33)
-Trace|        2 (10): -4 (FFFFFFFFFFFFFFFC)
+Trace|        2 (10): -6 (FFFFFFFFFFFFFFFA)
 Trace|    15 bytes
 Trace|    4 (22):
 Trace|        1 (08): 53 (35)
@@ -393,19 +393,19 @@ Trace|        2 (10): 0 (00)
 Trace|    6 bytes
 Trace|    4 (22):
 Trace|        1 (08): 51 (33)
-Trace|        2 (10): 4 (04)
-Trace|    6 bytes
-Trace|    4 (22):
-Trace|        1 (08): 47 (2F)
 Trace|        2 (10): 6 (06)
 Trace|    6 bytes
 Trace|    4 (22):
-Trace|        1 (08): 12 (0C)
-Trace|        2 (10): 6 (06)
+Trace|        1 (08): 45 (2D)
+Trace|        2 (10): 8 (08)
+Trace|    6 bytes
+Trace|    4 (22):
+Trace|        1 (08): 11 (0B)
+Trace|        2 (10): 8 (08)
 Trace|    6 bytes
 Trace|    4 (22):
 Trace|        1 (08): 13 (0D)
-Trace|        2 (10): 4 (04)
+Trace|        2 (10): 6 (06)
 Trace|    6 bytes
 Trace|    4 (22):
 Trace|        1 (08): 14 (0E)
@@ -413,7 +413,7 @@ Trace|        2 (10): 0 (00)
 Trace|    6 bytes
 Trace|    4 (22):
 Trace|        1 (08): 13 (0D)
-Trace|        2 (10): -4 (FFFFFFFFFFFFFFFC)
+Trace|        2 (10): -6 (FFFFFFFFFFFFFFFA)
 Trace|    15 bytes
 Trace|110 bytes
 Trace|2 (12):
@@ -472,7 +472,7 @@ Trace|        1 (08): 88 (58)
 Trace|        2 (10): 88 (58)
 Trace|    6 bytes
 Trace|    4 (22):
-Trace|        1 (08): 14 (0E)
+Trace|        1 (08): 9 (09)
 Trace|        2 (10): -1 (FFFFFFFFFFFFFFFF)
 Trace|    15 bytes
 Trace|    4 (22):
@@ -484,7 +484,7 @@ Trace|        1 (08): 84 (54)
 Trace|        2 (10): 1 (01)
 Trace|    6 bytes
 Trace|    4 (22):
-Trace|        1 (08): 14 (0E)
+Trace|        1 (08): 9 (09)
 Trace|        2 (10): 1 (01)
 Trace|    6 bytes
 Trace|57 bytes
@@ -878,8 +878,8 @@ Trace|Writing image...
 Trace|Image 35 offset is 86684...
 Debug|Encoding image 35...
 Trace|Extracting palette...
-Trace|Palette item 0: R FF, G FF, B FF
-Trace|Palette item 1: R FF, G 00, B 00
+Trace|Palette item 0: R FF, G 00, B 00
+Trace|Palette item 1: R FF, G FF, B FF
 Trace|Writing image header...
 Trace|Width: 10, Height: 16, RowLength: 2
 Trace|BPP: 1, PaletteColors: 2, Transaparency: 0
