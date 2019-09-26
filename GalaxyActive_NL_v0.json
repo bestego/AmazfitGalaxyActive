@@ -63,15 +63,15 @@
     "Status": {
         "Bluetooth": {
             "Coordinates": {
-                "X": 3,
-                "Y": 3
+                "X": 78,
+                "Y": 29
             },
             "ImageIndexOff": 10
         },
         "DoNotDisturb": {
             "Coordinates": {
-                "X": 15,
-                "Y": 3
+                "X": 89,
+                "Y": 29
             },
             "ImageIndexOn": 11
         }
@@ -79,9 +79,27 @@
     "Battery": {
         "Icon": {
             "X": 163,
-            "Y": 3,
+            "Y": 4,
             "ImageIndex": 100,
             "ImagesCount": 9
+        }
+    },
+    "Weather": {
+        "Temperature": {
+            "Current": {
+                "Number": {
+                    "TopLeftX": 3,
+                    "TopLeftY": 4,
+                    "BottomRightX": 33,
+                    "BottomRightY": 9,
+                    "Alignment": "TopLeft",
+                    "Spacing": 2,
+                    "ImageIndex": 300,
+                    "ImagesCount": 10
+                },
+                "MinusImageIndex": 310,
+                "DegreesImageIndex": 311
+            }
         }
     },
     "AnalogDialFace": {
