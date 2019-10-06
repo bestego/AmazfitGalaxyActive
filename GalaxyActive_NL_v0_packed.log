@@ -223,19 +223,25 @@ Trace|10.1.4 'Coordinates'
 Trace|10.1.4.1 'X': 11
 Trace|10.1.4.2 'Y': -8
 Trace|10.1.4 'Coordinates'
-Trace|10.1.4.1 'X': 45
+Trace|10.1.4.1 'X': 47
 Trace|10.1.4.2 'Y': -8
 Trace|10.1.4 'Coordinates'
-Trace|10.1.4.1 'X': 51
-Trace|10.1.4.2 'Y': -6
+Trace|10.1.4.1 'X': 49
+Trace|10.1.4.2 'Y': -7
+Trace|10.1.4 'Coordinates'
+Trace|10.1.4.1 'X': 52
+Trace|10.1.4.2 'Y': -4
 Trace|10.1.4 'Coordinates'
 Trace|10.1.4.1 'X': 53
 Trace|10.1.4.2 'Y': 0
 Trace|10.1.4 'Coordinates'
-Trace|10.1.4.1 'X': 51
-Trace|10.1.4.2 'Y': 6
+Trace|10.1.4.1 'X': 52
+Trace|10.1.4.2 'Y': 4
 Trace|10.1.4 'Coordinates'
-Trace|10.1.4.1 'X': 45
+Trace|10.1.4.1 'X': 49
+Trace|10.1.4.2 'Y': 7
+Trace|10.1.4 'Coordinates'
+Trace|10.1.4.1 'X': 47
 Trace|10.1.4.2 'Y': 8
 Trace|10.1.4 'Coordinates'
 Trace|10.1.4.1 'X': 11
@@ -256,19 +262,25 @@ Trace|10.2.4 'Coordinates'
 Trace|10.2.4.1 'X': 12
 Trace|10.2.4.2 'Y': -6
 Trace|10.2.4 'Coordinates'
-Trace|10.2.4.1 'X': 64
+Trace|10.2.4.1 'X': 63
 Trace|10.2.4.2 'Y': -6
 Trace|10.2.4 'Coordinates'
-Trace|10.2.4.1 'X': 68
-Trace|10.2.4.2 'Y': -4
+Trace|10.2.4.1 'X': 67
+Trace|10.2.4.2 'Y': -5
+Trace|10.2.4 'Coordinates'
+Trace|10.2.4.1 'X': 69
+Trace|10.2.4.2 'Y': -3
 Trace|10.2.4 'Coordinates'
 Trace|10.2.4.1 'X': 70
 Trace|10.2.4.2 'Y': 0
 Trace|10.2.4 'Coordinates'
-Trace|10.2.4.1 'X': 68
-Trace|10.2.4.2 'Y': 4
+Trace|10.2.4.1 'X': 69
+Trace|10.2.4.2 'Y': 3
 Trace|10.2.4 'Coordinates'
-Trace|10.2.4.1 'X': 64
+Trace|10.2.4.1 'X': 67
+Trace|10.2.4.2 'Y': 5
+Trace|10.2.4 'Coordinates'
+Trace|10.2.4.1 'X': 63
 Trace|10.2.4.2 'Y': 6
 Trace|10.2.4 'Coordinates'
 Trace|10.2.4.1 'X': 12
@@ -393,23 +405,31 @@ Trace|        1 (08): 11 (0B)
 Trace|        2 (10): -8 (FFFFFFFFFFFFFFF8)
 Trace|    15 bytes
 Trace|    4 (22):
-Trace|        1 (08): 45 (2D)
+Trace|        1 (08): 47 (2F)
 Trace|        2 (10): -8 (FFFFFFFFFFFFFFF8)
 Trace|    15 bytes
 Trace|    4 (22):
-Trace|        1 (08): 51 (33)
-Trace|        2 (10): -6 (FFFFFFFFFFFFFFFA)
+Trace|        1 (08): 49 (31)
+Trace|        2 (10): -7 (FFFFFFFFFFFFFFF9)
+Trace|    15 bytes
+Trace|    4 (22):
+Trace|        1 (08): 52 (34)
+Trace|        2 (10): -4 (FFFFFFFFFFFFFFFC)
 Trace|    15 bytes
 Trace|    4 (22):
 Trace|        1 (08): 53 (35)
 Trace|        2 (10): 0 (00)
 Trace|    6 bytes
 Trace|    4 (22):
-Trace|        1 (08): 51 (33)
-Trace|        2 (10): 6 (06)
+Trace|        1 (08): 52 (34)
+Trace|        2 (10): 4 (04)
 Trace|    6 bytes
 Trace|    4 (22):
-Trace|        1 (08): 45 (2D)
+Trace|        1 (08): 49 (31)
+Trace|        2 (10): 7 (07)
+Trace|    6 bytes
+Trace|    4 (22):
+Trace|        1 (08): 47 (2F)
 Trace|        2 (10): 8 (08)
 Trace|    6 bytes
 Trace|    4 (22):
@@ -424,7 +444,7 @@ Trace|    4 (22):
 Trace|        1 (08): 14 (0E)
 Trace|        2 (10): -2 (FFFFFFFFFFFFFFFE)
 Trace|    15 bytes
-Trace|104 bytes
+Trace|125 bytes
 Trace|2 (12):
 Trace|    1 (08): 0 (00)
 Trace|    2 (10): 16777215 (FFFFFF)
@@ -437,23 +457,31 @@ Trace|        1 (08): 12 (0C)
 Trace|        2 (10): -6 (FFFFFFFFFFFFFFFA)
 Trace|    15 bytes
 Trace|    4 (22):
-Trace|        1 (08): 64 (40)
+Trace|        1 (08): 63 (3F)
 Trace|        2 (10): -6 (FFFFFFFFFFFFFFFA)
 Trace|    15 bytes
 Trace|    4 (22):
-Trace|        1 (08): 68 (44)
-Trace|        2 (10): -4 (FFFFFFFFFFFFFFFC)
+Trace|        1 (08): 67 (43)
+Trace|        2 (10): -5 (FFFFFFFFFFFFFFFB)
+Trace|    15 bytes
+Trace|    4 (22):
+Trace|        1 (08): 69 (45)
+Trace|        2 (10): -3 (FFFFFFFFFFFFFFFD)
 Trace|    15 bytes
 Trace|    4 (22):
 Trace|        1 (08): 70 (46)
 Trace|        2 (10): 0 (00)
 Trace|    6 bytes
 Trace|    4 (22):
-Trace|        1 (08): 68 (44)
-Trace|        2 (10): 4 (04)
+Trace|        1 (08): 69 (45)
+Trace|        2 (10): 3 (03)
 Trace|    6 bytes
 Trace|    4 (22):
-Trace|        1 (08): 64 (40)
+Trace|        1 (08): 67 (43)
+Trace|        2 (10): 5 (05)
+Trace|    6 bytes
+Trace|    4 (22):
+Trace|        1 (08): 63 (3F)
 Trace|        2 (10): 6 (06)
 Trace|    6 bytes
 Trace|    4 (22):
@@ -468,10 +496,10 @@ Trace|    4 (22):
 Trace|        1 (08): 14 (0E)
 Trace|        2 (10): -2 (FFFFFFFFFFFFFFFE)
 Trace|    15 bytes
-Trace|105 bytes
+Trace|126 bytes
 Trace|Encoding offsets and lengths...
 Trace|1 (0A):
-Trace|    1 (08): 362 (16A)
+Trace|    1 (08): 404 (194)
 Trace|    2 (10): 48 (30)
 Trace|7 bytes
 Trace|2 (12):
@@ -500,7 +528,7 @@ Trace|    2 (10): 11 (0B)
 Trace|7 bytes
 Trace|10 (52):
 Trace|    1 (08): 153 (99)
-Trace|    2 (10): 209 (D1)
+Trace|    2 (10): 251 (FB)
 Trace|8 bytes
 Trace|Writing header...
 Trace|Writing parameters offsets and lengths...
