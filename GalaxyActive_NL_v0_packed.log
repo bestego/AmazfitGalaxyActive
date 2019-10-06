@@ -241,14 +241,11 @@ Trace|10.1.4 'Coordinates'
 Trace|10.1.4.1 'X': 11
 Trace|10.1.4.2 'Y': 8
 Trace|10.1.4 'Coordinates'
-Trace|10.1.4.1 'X': 13
-Trace|10.1.4.2 'Y': 6
+Trace|10.1.4.1 'X': 14
+Trace|10.1.4.2 'Y': 2
 Trace|10.1.4 'Coordinates'
 Trace|10.1.4.1 'X': 14
-Trace|10.1.4.2 'Y': 0
-Trace|10.1.4 'Coordinates'
-Trace|10.1.4.1 'X': 13
-Trace|10.1.4.2 'Y': -6
+Trace|10.1.4.2 'Y': -2
 Trace|10.2 'ClockHand'
 Trace|10.2.1 'OnlyBorder': 0
 Trace|10.2.2 'Color': 16777215
@@ -277,14 +274,11 @@ Trace|10.2.4 'Coordinates'
 Trace|10.2.4.1 'X': 12
 Trace|10.2.4.2 'Y': 6
 Trace|10.2.4 'Coordinates'
-Trace|10.2.4.1 'X': 13
-Trace|10.2.4.2 'Y': 4
+Trace|10.2.4.1 'X': 14
+Trace|10.2.4.2 'Y': 2
 Trace|10.2.4 'Coordinates'
 Trace|10.2.4.1 'X': 14
-Trace|10.2.4.2 'Y': 0
-Trace|10.2.4 'Coordinates'
-Trace|10.2.4.1 'X': 13
-Trace|10.2.4.2 'Y': -4
+Trace|10.2.4.2 'Y': -2
 Debug|Generating previews...
 Debug|Writing watch face to 'Z:\Amazfit\WatchFaces\GalaxyActive_NL_v0\GalaxyActive_NL_v0_packed.bin'
 Trace|Encoding parameters...
@@ -423,18 +417,14 @@ Trace|        1 (08): 11 (0B)
 Trace|        2 (10): 8 (08)
 Trace|    6 bytes
 Trace|    4 (22):
-Trace|        1 (08): 13 (0D)
-Trace|        2 (10): 6 (06)
+Trace|        1 (08): 14 (0E)
+Trace|        2 (10): 2 (02)
 Trace|    6 bytes
 Trace|    4 (22):
 Trace|        1 (08): 14 (0E)
-Trace|        2 (10): 0 (00)
-Trace|    6 bytes
-Trace|    4 (22):
-Trace|        1 (08): 13 (0D)
-Trace|        2 (10): -6 (FFFFFFFFFFFFFFFA)
+Trace|        2 (10): -2 (FFFFFFFFFFFFFFFE)
 Trace|    15 bytes
-Trace|110 bytes
+Trace|104 bytes
 Trace|2 (12):
 Trace|    1 (08): 0 (00)
 Trace|    2 (10): 16777215 (FFFFFF)
@@ -471,21 +461,17 @@ Trace|        1 (08): 12 (0C)
 Trace|        2 (10): 6 (06)
 Trace|    6 bytes
 Trace|    4 (22):
-Trace|        1 (08): 13 (0D)
-Trace|        2 (10): 4 (04)
+Trace|        1 (08): 14 (0E)
+Trace|        2 (10): 2 (02)
 Trace|    6 bytes
 Trace|    4 (22):
 Trace|        1 (08): 14 (0E)
-Trace|        2 (10): 0 (00)
-Trace|    6 bytes
-Trace|    4 (22):
-Trace|        1 (08): 13 (0D)
-Trace|        2 (10): -4 (FFFFFFFFFFFFFFFC)
+Trace|        2 (10): -2 (FFFFFFFFFFFFFFFE)
 Trace|    15 bytes
-Trace|111 bytes
+Trace|105 bytes
 Trace|Encoding offsets and lengths...
 Trace|1 (0A):
-Trace|    1 (08): 374 (176)
+Trace|    1 (08): 362 (16A)
 Trace|    2 (10): 48 (30)
 Trace|7 bytes
 Trace|2 (12):
@@ -514,7 +500,7 @@ Trace|    2 (10): 11 (0B)
 Trace|7 bytes
 Trace|10 (52):
 Trace|    1 (08): 153 (99)
-Trace|    2 (10): 221 (DD)
+Trace|    2 (10): 209 (D1)
 Trace|8 bytes
 Trace|Writing header...
 Trace|Writing parameters offsets and lengths...
