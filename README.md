@@ -9,7 +9,7 @@ Battery indication is done by center dot:
   yellow: between 13% - 22%
   red: below 13%
   
-# INSTALLATION
+# Installation
 Download the .bin file to your mobile device.
 Use an app (e.g. Notify & Fitness for Amazfit app) that supports the Amazfit BIP.
 Select .bin file as watchface to be loaded
